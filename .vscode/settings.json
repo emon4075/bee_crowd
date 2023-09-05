@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "*.js": "json",
-        "math.h": "c"
+        "math.h": "c",
+        "iostream": "cpp"
     }
     
 }
